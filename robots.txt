@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Design-Master2022.github.io/resources-tlekir/sitemap.xml
